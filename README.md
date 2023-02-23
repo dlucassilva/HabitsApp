@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> HabitsApp </h1>
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -21,7 +21,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <img alt="projeto Habits" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -30,13 +30,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 🔗 Projeto
 
 O Habits é uma ferramenta de acompanhamento de hábitos para o usúario colocar em prática suas resoluções e metas, ou seja, registrar ações e acompanhar a evolução dos novos hábitos que deseja colocar na sua rotina.
 
 - [Visite o projeto online](https://dlucassilva.github.io/HabitsApp)
 
-## 🔖 Layout
+## 📑 Layout
 
 Você pode visualizar o layout do projeto através [link](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
